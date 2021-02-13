@@ -1,4 +1,5 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "conslole ver 2.1! \n"
+print " Co to ma byc";
+print "conslole to jest bardzo dlugi wpis \n";
 ?>
